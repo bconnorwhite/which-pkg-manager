@@ -31,19 +31,19 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 ## Installation
 
 ```sh
-npm install which-pm-lockfile
+npm install which-pkg-manager
 ```
 
 ```sh
-yarn add which-pm-lockfile
+yarn add which-pkg-manager
 ```
 
 ```sh
-pnpm add which-pm-lockfile
+pnpm add which-pkg-manager
 ```
 
 ```sh
-bun add which-pm-lockfile
+bun add which-pkg-manager
 ```
 
 ## Usage
