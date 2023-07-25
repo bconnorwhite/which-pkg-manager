@@ -45,6 +45,11 @@
     "test": "auto test",
     "typecheck": "auto typecheck"
   },
+  "dependencies": {
+    "read-json-safe": "^3.0.0",
+    "root-pkg-json": "^1.0.2",
+    "which-pm-lockfile": "^2.1.0"
+  },
   "devDependencies": {
     "autorepo": "^0.1.10"
   },
@@ -56,10 +61,5 @@
   },
   "npmpackagejsonlint": {
     "extends": "npm-package-json-lint-config-auto"
-  },
-  "dependencies": {
-    "read-json-safe": "^3.0.0",
-    "root-pkg-json": "^1.0.2",
-    "which-pm-lockfile": "^2.1.0"
   }
 }
